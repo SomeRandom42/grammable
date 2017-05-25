@@ -1,3 +1,3 @@
 class Gram < ApplicationRecord
-        validates :message, pressence: true
+        validates :message, presence: true
 end
