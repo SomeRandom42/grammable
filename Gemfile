@@ -74,3 +74,7 @@ group :development, :test do
  
   gem "factory_girl_rails", "~> 4.0"
 end
+
+gem 'carrierwave', '~> 1.0'
+gem "figaro"
+gem "fog-aws"
